@@ -1,0 +1,263 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"post",
+				"post_list\tabc"
+			],
+			[
+				"auth",
+				"author\t(models.py)"
+			],
+			[
+				"def",
+				"default\tabc"
+			],
+			[
+				"au",
+				"auto_now"
+			],
+			[
+				"aut",
+				"auto_now_add"
+			],
+			[
+				"Dat",
+				"DateTimeField"
+			],
+			[
+				"defa",
+				"default"
+			],
+			[
+				"uni",
+				"unique_for_date"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ay",
+				"ayu: Activate theme"
+			],
+			[
+				"install pac con",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/rs/work/twfpt/mysite",
+		"/home/rs/work/twfpt/mysite/blog",
+		"/home/rs/work/twfpt/mysite/mysite"
+	],
+	"file_history":
+	[
+		"/home/rs/work/twfpt/mysite/blog/admin.py",
+		"/home/rs/work/twfpt/mysite2/blog/admin.py",
+		"/home/rs/work/twfpt/mysite/mysite/mysite/settings.py",
+		"/home/rs/work/twfpt/mysite/mysite/settings.py",
+		"/home/rs/work/twfpt/mysite/blog/templates/blog/post/list.html",
+		"/home/rs/work/twfpt/mysite/blog/urls.py",
+		"/home/rs/work/twfpt/mysite/blog/views.py",
+		"/home/rs/work/twfpt/mysite/blog/models.py",
+		"/home/rs/work/twfpt/mysite2/blog/__init__.py",
+		"/home/rs/work/twfpt/mysite/blog/templates/pagination.html",
+		"/home/rs/work/twfpt/mysite/blog/templates/blog/base.html",
+		"/home/rs/work/twfpt/mysite/mysite/urls.py",
+		"/home/rs/work/twfpt/mysite/blog/templates/blog/post/detail.html",
+		"/home/rs/work/twfpt/mysite/blog/static/css/blog.css",
+		"/home/rs/work/key.py",
+		"/home/rs/work/wwf/fla.txt",
+		"/home/rs/work/twfpt/.gitignore",
+		"/home/rs/work/twfpt/mysite/blog/templates/blog/pagination.html",
+		"/home/rs/work/wwf/config.py",
+		"/home/rs/work/wwf/app_dir/__init__.py",
+		"/home/rs/work/wwf/runner.py",
+		"/home/rs/work/wwf/.gitignore",
+		"/home/rs/.var/app/com.sublimetext.three/config/sublime-text-3/Packages/User/Python (Django).sublime-settings",
+		"/home/rs/.var/app/com.sublimetext.three/config/sublime-text-3/Packages/Djaneiro/Settings/Python (Django).sublime-settings",
+		"/home/rs/.var/app/com.sublimetext.three/config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/rs/.var/app/com.sublimetext.three/config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/rs/Стільниця/untitled.py"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/\n",
+			"pep257"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

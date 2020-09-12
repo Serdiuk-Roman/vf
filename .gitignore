@@ -91,3 +91,8 @@ media/
 */migrations/*
 !**/migrations
 !**/migrations/__init__.py
+
+# Sublime Text #
+################
+*.sublime-workspace
+# keep any sublime-project files within version control

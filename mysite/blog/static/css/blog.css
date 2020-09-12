@@ -22,10 +22,6 @@ h1 {
     color: grey;
 }
 
-.comment:nth-child(even) {
-    background-color: whitesmoke;
-}
-
 #content,
 #sidebar {
     display: inline-block;
@@ -35,10 +31,10 @@ h1 {
 }
 
 #content {
-    width: 70%;
+    width: 80%;
 }
 
 #sidebar {
-    width: 30%;
+    width: 20%;
   background-color: lightgrey;
 }

@@ -8,4 +8,15 @@
     Published {{ post.publish }} by {{ post.author }}
   </p>
   {{ post.body|linebreaks }}
+
+  {% if next_page %}
+      <a href="{{ next_page.get_absolute_url }}">Next Post</a>
+  {% endif %}
+
+  {% if prev_page %}
+      <a href="{{ prev_page.get_absolute_url }}">Previous Post</a>
+  {% endif %}
+
+
+
 {% endblock %}

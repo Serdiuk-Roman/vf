@@ -33,7 +33,7 @@ class Post(models.Model):
     objects = models.Manager()  # Менеджер по умолчанию
     published = PublishedManager()  # Собственный менеджер
 
-    tags = TaggableManager()
+    tags = TaggableManager(blank=True)
 
     class Meta:
         ordering = ('-publish',)
@@ -47,3 +47,19 @@ class Post(models.Model):
                self.publish.month,
                self.publish.day,
                self.slug])
+
+    def next_published(self):
+        next_post = (Post.objects
+                    .filter(status='published', publish__gt=self.publish)
+                    .exclude(id=self.id)
+                    .order_by('publish')
+                    .first())
+        return next_post
+
+    def prev_published(self):
+        prev_post = (Post.objects
+                    .filter(status='published', publish__lt=self.publish)
+                    .exclude(id=self.id)
+                    .order_by('-publish')
+                    .first())
+        return prev_post

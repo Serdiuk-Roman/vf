@@ -26,7 +26,7 @@ $ git clone https://github.com/Serdiuk-Roman/vf.git
 ```
 
 ```bash
-$ cd vf/mysite
+$ cd vf
 ```
 
 Install dependencies:
@@ -64,3 +64,13 @@ Run server:
 ```bash
 $ python manage.py runserver
 ```
+
+
+[http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+
+or
+
+[http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
+
+
+After each additional image, you need to restart the server

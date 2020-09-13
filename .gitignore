@@ -95,4 +95,5 @@ media/
 # Sublime Text #
 ################
 *.sublime-workspace
+*.sublime-project
 # keep any sublime-project files within version control
